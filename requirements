@@ -1,0 +1,16 @@
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.28.0
+transformer-lens>=2.7.0
+sae-lens>=3.23.1
+huggingface-hub>=0.21.0
+einops>=0.7.0
+jaxtyping>=0.2.28
+tabulate>=0.9.0
+rich>=13.7.0
+tqdm>=4.66.0
+numpy>=1.24.0
+matplotlib>=3.8.0
+scipy>=1.11.0
+git+https://github.com/callummcdougall/CircuitsVis.git#subdirectory=python
+git+https://github.com/callummcdougall/sae_vis.git@callum/v3
