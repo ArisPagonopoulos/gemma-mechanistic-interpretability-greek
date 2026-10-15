@@ -1,4 +1,4 @@
-# Mechanistic Interpretability on Gemma-2B: Greek Language Feature & Steering
+# Mechanistic Interpetability on Gemma-2B: Greek Language Feature & Steering
 
 Course project for the Department of Informatics at Aristotle University of Thessaloniki (AUTH).
 
