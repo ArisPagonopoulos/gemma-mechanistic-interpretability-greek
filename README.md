@@ -64,3 +64,14 @@ By clamping / adding a scaled feature vector $\alpha \cdot v_{8057}$ to the resi
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+🚀 Getting StartedPrerequisitesPython 3.10+CUDA-capable GPU (recommended for local execution of Gemma-2B)InstallationBashgit clone [https://github.com/ArisPagonopoulos/gemma-mechanistic-interpretability-greek.git](https://github.com/ArisPagonopoulos/gemma-mechanistic-interpretability-greek.git)
+cd gemma-mechanistic-interpretability-greek
+pip install -r requirements.txt
+Dependencies (requirements.txt)Plaintexttorch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.28.0
+numpy
+scipy
+matplotlib
+huggingface_hub
+📖 References & AcknowledgmentsGemma 2: Google DeepMind (arXiv:2408.00118)   GemmaScope: Open Sparse Autoencoders on Gemma 2 (Lieberum et al., 2024)   Neuronpedia: Interactive reference and tooling for analyzing neural networks (Neuronpedia)   Towards Monosemanticity: Decomposing Language Models with Dictionary Learning (Bricken et al., Anthropic 2023)   👤 AuthorAristeidis Pagonopoulos – GitHub | LinkedIn   Department of Informatics, Aristotle University of Thessaloniki (AUTH)[cite: 1]
