@@ -28,8 +28,8 @@ Instead of treating the model as a black box, we used a Sparse Autoencoder (SAE)
 
 ### Repo Structure
 
-- `final_mechanistic.ipynb`: The Colab/Jupyter notebook containing the full workflow (model loading, logit lens, SAE feature inspection, and steering experiments).
-- `paper.pdf`: Our project report with methodology and detailed output tables.
+- `mechanistic_gemma_greek.ipynb`: The Colab/Jupyter notebook containing the full workflow (model loading, logit lens, SAE feature inspection, and steering experiments).
+- `mechanistic_interpetability.pdf`: Our project report with methodology and detailed output tables.
 
 ### Quick Start
 
